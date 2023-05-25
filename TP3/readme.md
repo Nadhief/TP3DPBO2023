@@ -1,7 +1,7 @@
-# LP9DPBO2023C2
+# TP3DPBO2023
 
 ## Janji
-Saya Nadhief Athallah Isya dengan NIM 2106413 mengerjakan LP9 Praktikum DPBO dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Nadhief Athallah Isya dengan NIM 2106413 mengerjakan TP3 Praktikum DPBO dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Deskripsi Tugas
 Buatlah program menggunakan bahasa pemrograman PHP dengan
